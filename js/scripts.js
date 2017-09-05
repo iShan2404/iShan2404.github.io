@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: [ "Solution Driven, Creatively Subtle"],    /* You can change the home section typing text from
+            strings: [ "Solution Driven", "Creatively Subtle"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
